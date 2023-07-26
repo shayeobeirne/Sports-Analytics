@@ -1,0 +1,364 @@
+TEAM,StrOfSched
+Abilene Christian,-1.1
+Air Force,0.8
+Akron,-0.5
+Alabama,11.7
+Alabama A&M,-8.2
+Alabama St.,-7.4
+Albany,-5.6
+Alcorn St.,-4.5
+American,-5.3
+Appalachian St.,-1.6
+Arizona,9.2
+Arizona St.,7.5
+Arkansas,10.4
+Arkansas Pine Bluff,-8.5
+Arkansas St.,-5
+Army,-5.9
+Auburn,9.9
+Austin Peay,-5.1
+Ball St.,-2.8
+Baylor,11.5
+Bellarmine,-2.6
+Belmont,-0.1
+Bethune Cookman,-8.8
+Binghamton,-5.4
+Boise St.,5.9
+Boston College,4
+Boston University,-4.9
+Bowling Green,-4.4
+Bradley,1.8
+Brown,-1.1
+Bryant,-3.1
+Bucknell,-5.7
+Buffalo,-0.7
+Butler,7.4
+BYU,4
+Cal Baptist,-1.2
+Cal Poly,-3.3
+Cal St. Bakersfield,-3.4
+Cal St. Fullerton,-0.8
+Cal St. Northridge,-4.6
+California,4.1
+Campbell,-3.9
+Canisius,-3.1
+Central Arkansas,-4.6
+Central Connecticut,-7.4
+Central Michigan,-5.1
+Charleston,-0.8
+Charleston Southern,-4.7
+Charlotte,0.4
+Chattanooga,-1.7
+Chicago St.,-5.2
+Cincinnati,5.6
+Clemson,5.3
+Cleveland St.,-3.9
+Coastal Carolina,-3.3
+Colgate,-2.8
+Colorado,7
+Colorado St.,4.2
+Columbia,-5.4
+Connecticut,11.1
+Coppin St.,-3.7
+Cornell,-1.2
+Creighton,10.6
+Dartmouth,-3
+Davidson,1.6
+Dayton,2.6
+Delaware,-2.8
+Delaware St.,-7.8
+Denver,-7.1
+DePaul,7.2
+Detroit Mercy,-2.5
+Drake,1.5
+Drexel,-3.7
+Duke,9
+Duquesne,0.1
+East Carolina,0.6
+East Tennessee St.,-3.4
+Eastern Illinois,-8
+Eastern Kentucky,-1.4
+Eastern Michigan,-3.1
+Eastern Washington,-1.1
+Elon,-5.3
+Evansville,-2
+Fairfield,-3.8
+Fairleigh Dickinson,-7.8
+FIU,-1.5
+Florida,8.5
+Florida A&M,-8.3
+Florida Atlantic,3.8
+Florida Gulf Coast,-2.3
+Florida St.,5
+Fordham,-1.1
+Fresno St.,3.1
+Furman,-0.4
+Gardner Webb,-3.1
+George Mason,0.8
+George Washington,-1.1
+Georgetown,4.8
+Georgia,3.9
+Georgia Southern,-2.7
+Georgia St.,-3.2
+Georgia Tech,3.6
+Gonzaga,9.3
+Grambling St.,-6.3
+Grand Canyon,0.6
+Green Bay,-4.6
+Hampton,-5.7
+Hartford,-10.6
+Harvard,-1.9
+Hawaii,-2.5
+High Point,-5.2
+Hofstra,0.5
+Holy Cross,-6.8
+Houston,8
+Houston Christian,-10.2
+Howard,-4.8
+Idaho,-5.4
+Idaho St.,-4.3
+Illinois,9.4
+Illinois Chicago,-3.5
+Illinois St.,-2.8
+Incarnate Word,-9.7
+Indiana,10.4
+Indiana St.,-1.4
+Iona,-0.5
+Iowa,9.7
+Iowa St.,11.4
+IUPUI,-8.2
+Jackson St.,-5.3
+Jacksonville,-2.8
+Jacksonville St.,-3.5
+James Madison,-0.5
+Kansas,12.2
+Kansas St.,9.8
+Kennesaw St.,-1.3
+Kent St.,0.7
+Kentucky,9.6
+La Salle,0
+Lafayette,-3
+Lamar,-10.1
+Lehigh,-5.6
+Liberty,0.2
+Lindenwood,-8
+Lipscomb,-2.7
+Little Rock,-7
+LIU,-9.7
+Long Beach St.,-1.5
+Longwood,-4.4
+Louisiana,-0.3
+Louisiana Monroe,-3.3
+Louisiana Tech,0.4
+Louisville,3.9
+Loyola Chicago,0.2
+Loyola Marymount,2.5
+Loyola MD,-6.1
+LSU,5.3
+Maine,-4.5
+Manhattan,-5
+Marist,-4.7
+Marquette,9.7
+Marshall,-1
+Maryland,9.5
+Maryland Eastern Shore,-6
+Massachusetts,0.7
+McNeese St.,-7.5
+Memphis,8
+Mercer,-2.5
+Merrimack,-7.7
+Miami FL,8.7
+Miami OH,-4.5
+Michigan,9.1
+Michigan St.,10.9
+Middle Tennessee,1.6
+Milwaukee,-4.5
+Minnesota,5.3
+Mississippi,6.6
+Mississippi St.,7.9
+Mississippi Valley St.,-6.1
+Missouri,8
+Missouri St.,0.1
+Monmouth,-3.4
+Montana,-2.2
+Montana St.,-1.4
+Morehead St.,-5.5
+Morgan St.,-7.4
+Mount St. Mary's,-4
+Murray St.,-0.7
+N.C. State,7.3
+Navy,-4.1
+Nebraska,8.2
+Nebraska Omaha,-4.2
+Nevada,5
+New Hampshire,-5.3
+New Mexico,3.9
+New Mexico St.,0.1
+New Orleans,-9
+Niagara,-4.1
+Nicholls St.,-6.7
+NJIT,-5
+Norfolk St.,-5.8
+North Alabama,-4.3
+North Carolina,8.5
+North Carolina A&T,-5.5
+North Carolina Central,-5.5
+North Dakota,-5.1
+North Dakota St.,-3.4
+North Florida,-2.9
+North Texas,3.1
+Northeastern,-3.4
+Northern Arizona,-2.1
+Northern Colorado,-2.3
+Northern Illinois,-3.3
+Northern Iowa,-0.6
+Northern Kentucky,-2.5
+Northwestern,9.1
+Northwestern St.,0
+Notre Dame,3.9
+Oakland,-3.3
+Ohio,-1.1
+Ohio St.,10.2
+Oklahoma,10.5
+Oklahoma St.,9.8
+Old Dominion,-0.7
+Oral Roberts,-1.2
+Oregon,8.2
+Oregon St.,2.7
+Pacific,-1
+Penn,0.1
+Penn St.,9.5
+Pepperdine,0.7
+Pittsburgh,6.6
+Portland,1.2
+Portland St.,-2.6
+Prairie View A&M,-6.3
+Presbyterian,-5.6
+Princeton,0.1
+Providence,8.2
+Purdue,9.9
+Purdue Fort Wayne,0
+Queens,-3.1
+Quinnipiac,-3.7
+Radford,-2.6
+Rhode Island,0
+Rice,-1.3
+Richmond,1.1
+Rider,-3.9
+Robert Morris,-4.9
+Rutgers,8.8
+Sacramento St.,-3.1
+Sacred Heart,-8.6
+Saint Joseph's,0
+Saint Louis,3.3
+Saint Mary's,6.7
+Saint Peter's,-5
+Sam Houston St.,-8.6
+Samford,-2.4
+San Diego,-0.4
+San Diego St.,8
+San Francisco,2.6
+San Jose St.,3
+Santa Clara,3
+Seattle,0.1
+Seton Hall,8.5
+Siena,-3.1
+SIU Edwardsville,-6.4
+SMU,0
+South Alabama,0.3
+South Carolina,4.2
+South Carolina St.,-5
+South Dakota,-5
+South Dakota St.,-2
+South Florida,1.2
+Southeast Missouri St.,-5.8
+Southeastern Louisiana,-7
+Southern,-6.3
+Southern Illinois,-0.3
+Southern Indiana,-6.5
+Southern Miss,-1
+Southern Utah,0.4
+St. Bonaventure,-6.3
+St. Francis NY,0.1
+St. Francis PA,-10.2
+St. John's,-8.4
+St. Thomas,6.9
+Stanford,-4.5
+Stephen F. Austin,-1
+Stetson,-1.8
+Stonehill,-7.3
+Stony Brook,-5
+Syracuse,4.5
+Tarleton St.,0.1
+TCU,10.5
+Temple,4.5
+Tennessee,10.3
+Tennessee Martin,-7.5
+Tennessee St.,-8.7
+Tennessee Tech,-6.6
+Texas,11.7
+Texas A&M,8.5
+Texas A&M Commerce,-6.6
+Texas A&M Corpus Chris,-6.6
+Texas Southern,-6
+Texas St.,-1.8
+Texas Tech,9.2
+The Citadel,-3.9
+Toledo,-0.3
+Towson,-1.3
+Troy,-1.2
+Tulane,2.9
+Tulsa,0.6
+UAB,2.9
+UC Davis,-2.5
+UC Irvine,-0.6
+UC Riverside,-0.7
+UC San Diego,-3
+UC Santa Barbara,-1.9
+UCF,5.6
+UCLA,9.8
+UMass Lowell,-4.8
+UMBC,-5.4
+UMKC,-5.6
+UNC Asheville,-2.9
+UNC Greensboro,-0.5
+UNC Wilmington,-1.8
+UNLV,3.5
+USC,7.5
+USC Upstate,0
+UT Arlington,-0.5
+UT Rio Grande Valley,0
+Utah,6.4
+Utah St.,5.5
+Utah Tech,-0.3
+Utah Valley,2.5
+UTEP,-0.2
+UTSA,-2.6
+Valparaiso,-2.8
+Vanderbilt,7.9
+VCU,3.2
+Vermont,-0.8
+Villanova,8.9
+Virginia,7.9
+Virginia Tech,6.5
+VMI,0
+Wagner,-8.5
+Wake Forest,6.1
+Washington,5.7
+Washington St.,6.9
+Weber St.,-2.1
+West Virginia,11.1
+Western Carolina,-3.3
+Western Illinois,-6.1
+Western Kentucky,0.2
+Western Michigan,-5
+Wichita St.,3.3
+William & Mary,-4.9
+Winthrop,-3.4
+Wisconsin,9.3
+Wofford,-2.4
+Wright St.,-4.1
+Wyoming,3.6
+Xavier,10.1
+Yale,1.1
+Youngstown St.,-3.9
