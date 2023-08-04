@@ -1,0 +1,13 @@
+name: nba-lineup-analysis
+title: nba-lineup-analysis
+username:
+account: sobeirne
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9288966
+bundleId: 7363912
+url: https://sobeirne.shinyapps.io/nba-lineup-analysis/
+when: 1687209187.76885
+lastSyncTime: 1687209187.76886
+asMultiple: FALSE
+asStatic: FALSE
