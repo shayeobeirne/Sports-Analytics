@@ -93,3 +93,6 @@ To use the app from the hackathon_app file:
 8. For The Matchup Analysis tab and Team Chemistry tab, choose a valid *five* player lineup (Note: if the lineup is not valid, meaning it hasn't played at all in the 2022-23 season, or too many/too few players are selected, the user will be notified via an error message)
 9. View resulting analysis within the app
 
+## Link to Live Deployment
+
+A live version of the app can be found [here](sobeirne.shinyapps.io/nba-lineup-analysis/), hosted by ShinyApps.io
