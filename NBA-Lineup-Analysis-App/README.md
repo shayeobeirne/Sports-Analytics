@@ -95,4 +95,4 @@ To use the app from the hackathon_app file:
 
 ## Link to Live Deployment
 
-A live version of the app can be found [here](sobeirne.shinyapps.io/nba-lineup-analysis/), hosted by ShinyApps.io
+A live version of the app can be found [here](https://sobeirne.shinyapps.io/nba-lineup-analysis/), hosted by ShinyApps.io
